@@ -1,6 +1,6 @@
 ## Mews - Platform Engineering Team - Interview Test
 
-Please complete and return this technical test before attending your interview at Mews. This isn't something we would like you to spend a long time on - **we recommend no more than 3 hours**. You can give us the results in any way that makes sense to you (if sharing a github private repo, our github usernames are in the footer of the page), but please do not publish them publicly.
+Please complete and return this technical test before attending your interview at Mews. This isn't something we would like you to spend a long time on - **we recommend no more than 3 hours**. You can give us the results in any way that makes sense to you. If sharing a GitHub repository, please make it private and grant access to the GitHub usernames at the bottom of the page.
 
 Your response to this technical assessment will be used to start a technical discussion at your interview. We're more interested in how you approach the problem and implement your solution than in you finding a “correct” answer to the question.
 
@@ -16,7 +16,7 @@ We don’t want you to spend a long time working on this, but would like to have
 
 We would like you to build the docker image (instructions below).
 
-We would like you to create a set of infrastructure to support it in Azure, AWS or GCP (our cloud platform is Azure, so that would be a preference) using an infrastructure as code approach.  You can use whichever service you feel appropriate to host it, though in particular we’re looking at::
+We would like you to create a set of infrastructure to support it in Azure, AWS or GCP (our cloud platform is Azure, so that would be a preference) using an infrastructure as code approach.  You can use whichever service you feel appropriate to host it, though in particular we’re looking at:
 
 - How you approach infrastructure as code (we use Pulumi at Mews, though if your experience is in terraform that is fine)
 - How you approach testing and validation of your solution and/or infrastructure

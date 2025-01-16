@@ -60,12 +60,6 @@ Standard `npm` and `docker` commands will do the trick - nothing complex:
 ### Github Usernames
 
 - @[terrybrown](https://github.com/terrybrown)
-- @[schafric](https://github.com/schafric)
 - @[philjhale](https://github.com/philjhale)
-- @[michal-bajer1](https://github.com/michal-bajer1)
-- @[cmthorp](https://github.com/cmthorp1)
-- @[mkriventsev](https://github.com/mkriventsev)
-- @[kallakata](https://github.com/kallakata)
-
 
 Though please contact anyone in the product/infrastructure team if you need anything.

@@ -22,7 +22,7 @@ We would like you to create a set of infrastructure to support it in Azure, AWS 
 - How you approach testing and validation of your solution and/or infrastructure
 - How you set up cloud infrastructure - where you may incorporate some of: networking; security; IAM; containerised workloads
 
-You can use any technical solution you feel is appropriate. Provide as much documentation as is required to allow us to understand any assumptions or constraints you’ve placed, and to stand up your solution.
+You can use any technical solution you feel is appropriate. **Provide as much documentation as is required to allow us to understand any assumptions or constraints you’ve placed, and to stand up your solution.**
 
 ### Please focus on a readable and maintainable solution that is easy to understand by an audience of your peers.
 

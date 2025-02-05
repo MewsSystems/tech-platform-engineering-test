@@ -10,6 +10,8 @@ Create infrastructure to host a containerised web app in the cloud using infrast
 
 Requirements:
 * Host containerised web app provided using infrastructure as code.
+* There must be three environments; dev, stage and prod.
+* The workload must run in private environment with explicit ingress and egress control.
 * Document how to build and execute your solution.
 * Explain your thinking, either in the readme or in comments. This is really important so the reviewers clearly understand your approach and the decisions you made.
 * Create a readable and maintainable solution that is easy to understand by an audience of your peers.
@@ -17,8 +19,6 @@ Requirements:
 
 If you have time, consider implementing some of these features:
 * A load balancing solution
-* Considerations for environment handling (e.g. dev/prod)
-* Securing consumer access (e.g. https, egress control)
 * CICD
 
 If you have any questions then please don’t hesitate in reaching out to the talent team at Mews.

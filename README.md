@@ -16,10 +16,11 @@ Requirements:
 * Explain your thinking, either in the readme or in comments. This is really important so the reviewers clearly understand your approach and the decisions you made.
 * Create a readable and maintainable solution that is easy to understand by an audience of your peers.
 
-
 If you have time, consider implementing some of these features:
 * A load balancing solution
 * CICD
+
+We appreciate that some of these requirements are open to interpretation. Feel free to implement the requirements how you think is best, baring in mind the 3 hour time limit. **Remember to explain your thinking.**
 
 If you have any questions then please don’t hesitate in reaching out to the talent team at Mews.
 

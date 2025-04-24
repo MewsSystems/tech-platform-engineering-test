@@ -43,8 +43,3 @@ We have provided a React app that represents a production ready containerised wo
 | `docker build -t mews:platform-test .`          | Build the docker container                                             |
 | `docker run -d -p 8080:3000 mews:platform-test` | Run the container, surfacing on http://localhost:8080/                 |
 
-### Github usernames
-
-- @[terrybrown](https://github.com/terrybrown)
-- @[philjhale](https://github.com/philjhale)
-

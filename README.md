@@ -1,8 +1,8 @@
 ## Mews - Platform Engineering Team - Interview Test
 
-Please complete and return this technical assessment before attending your interview at Mews. This isn't something we would like you to spend a long time on - **we recommend no more than 3 hours**. Submit your finished code to Greenhouse as a ZIP file.
+Please complete and return this technical assessment before attending your interview at Mews. This isn't something we would like you to spend a long time on, **we recommend no more than 3 hours**. If you don't finish everything in that time, it's not a problem, document it in your readme. Make it clear what you were able to complete and what you would have done given more time.
 
-Your response to this assessment will be used to start a technical discussion at your interview. We're more interested in how you approach the problem and implement your solution than in you finding a “correct” answer to the question.
+Submit your finished code to Greenhouse as a ZIP file. Your response to this assessment will be used to start a technical discussion at your interview. We're more interested in how you approach the problem and implement your solution than in you finding a “correct” answer to the question.
 
 ## The task - Deploying a containerised workload using infrastructure as code
 

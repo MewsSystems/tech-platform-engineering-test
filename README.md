@@ -20,7 +20,7 @@ If you have time, consider implementing some of these features:
 * A load balancing solution
 * CICD
 
-We appreciate that some of these requirements are open to interpretation. Feel free to implement the requirements how you think is best, baring in mind the 3 hour time limit. **Remember to explain your thinking.**
+We appreciate that some of these requirements are open to interpretation. Feel free to implement the requirements how you think is best, bearing in mind the 3 hour time limit. **Remember to explain your thinking.**
 
 If you have any questions then please don’t hesitate in reaching out to the talent team at Mews.
 
@@ -42,4 +42,3 @@ We have provided a React app that represents a production ready containerised wo
 | `npm run build`                                 | If you want to create a production build (not necessary for this test) |
 | `docker build -t mews:platform-test .`          | Build the docker container                                             |
 | `docker run -d -p 8080:3000 mews:platform-test` | Run the container, surfacing on http://localhost:8080/                 |
-

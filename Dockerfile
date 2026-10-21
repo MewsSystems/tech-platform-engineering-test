@@ -2,7 +2,7 @@ FROM node:alpine
 
 WORKDIR /app
 
-ENV PATH /app/node_modules/.bin:$PATH
+ENV PATH=/app/node_modules/.bin:$PATH
 
 # install app dependencies
 COPY package.json ./
